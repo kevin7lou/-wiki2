@@ -16,7 +16,7 @@ id:: 610173e1-964e-4fe6-8e57-ac177a2f1522
 	  :LOGBOOK:
 	  CLOCK: [2022-09-18 Sun 17:25:36]--[2022-09-18 Sun 17:25:38] =>  00:00:02
 	  :END:
-	- LATER [#B] high priority task
+	- LATER [#A] high priority task
 	  done:: 1624458986941
 	  now:: 1624458985140
 	  later:: 1624458989486
