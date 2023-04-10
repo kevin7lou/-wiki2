@@ -1,0 +1,4 @@
+alias:: 总体的数学期望
+
+- $$\mu = \frac{\sum_{i=1}^N X i}{N} = \frac{X_1+X_2+\cdots+X_N}{N}$$
+-

@@ -1,0 +1,4 @@
+alias:: 样本均值
+
+- $$\bar{x}=\frac{\sum_{i=1}^n x_i}{n}=\frac{x_1+x_2+\cdots+x_n}{n}$$
+-

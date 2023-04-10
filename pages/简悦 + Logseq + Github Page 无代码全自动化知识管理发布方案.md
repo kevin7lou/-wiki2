@@ -41,6 +41,7 @@
 		- 设置你的 Logseq  到此文件夹。
 		- Push 到你的 Repo & 设置 Github Page。
 	- ## 详细配置
+	  collapsed:: true
 	  > 下面的内容是详细配置，方便你理解整个配置过程。
 		- 建立 一个新的 [Public repo](https://github.com/new)
 			- ![image-20220204120717831](https://cdn.jsdelivr.net/gh/23784148/upload-images@main/typora/20220204_1643947637.png)
