@@ -1,0 +1,1 @@
+- $$s_m=\sqrt{\frac{1}{n(n-1)} \sum_{i=1}^n\left(x_i-\bar{x}\right)^2}=\frac{s}{\sqrt{n}}$$
