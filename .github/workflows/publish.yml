@@ -1,0 +1,24 @@
+on: [push]
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Publish Logseq graph
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+      - name: Logseq Publish 🚩
+        uses: logseq/publish-spa@main
+        # with:
+        #   graph-directory: my-logseq-notes
+        #   output-directory: out
+        #   version: nightly
+      - name: add a nojekyll file # to make sure asset paths are correctly identified
+        run: touch $GITHUB_WORKSPACE/www/.nojekyll
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: www
