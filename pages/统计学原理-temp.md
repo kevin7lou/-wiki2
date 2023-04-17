@@ -14,6 +14,7 @@ tags:: 数学, 统计学,
 			- 均匀分布
 			- 离散均匀分布
 				- 当值为 [插图] 时，平均数为 [插图]，方差为
+				- > **Note**: Logseq team has published [its official solution](https://github.com/logseq/publish-spa). As a result, I will archive mine here. Thanks for your supports thus far!
 - -------
 - [[DS-统计学笔记-第0周]]
 - [[DS-统计学笔记-第1周]]
@@ -84,5 +85,6 @@ tags:: 数学, 统计学,
 		- ![](https://api2.mubu.com/v3/document_image/c5ae848e-e17c-4716-a668-0f3dc38deba5-12162351.jpg)
 		- [通俗统计学原理入门 -外1篇 正态分布 中心极限定理 中庸 知行合一_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Md4y1A7sa/?vd_source=e3922e1d88d594a8750a72f54321a63f)
 		- 假设检验
+		- dddddddddd
 -
 - ![image.png](../assets/image_1662954548137_0.png)
