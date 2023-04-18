@@ -254,7 +254,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["ML-DS-唐宇迪"]
+ :favorites ["统计学原理" "ML-DS-唐宇迪"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
