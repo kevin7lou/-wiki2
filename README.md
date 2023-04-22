@@ -27,7 +27,7 @@ This repository contains the following features:
 
 ## Why Logseq
 
-### Move to Logseq from Tiddlywiki
+### Move to Logseq from Tiddlywiki[^2]
 
 I recently moved my personal data science wiki from Tiddlywiki to Logseq. While Tiddlywiki is a great tool, I found that Logseq better suits my needs for the following reasons:
 
