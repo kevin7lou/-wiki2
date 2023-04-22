@@ -18,12 +18,9 @@
 - # 🧰 [[Toolkit]]
 	- [[Workflows]]
 	- [[Query Page]]
-	- 近x天新笔记 for review
+
 - # 🔗 Links
 	- [About Me](https://kevin7lou.github.io/about/)
-	- [Blog Posts](https://kevin7lou.github.io/)
-- ------
-- > This Knowledge Base is powered by Logseq using [[logseq dev theme]]
-  Published automatically using [[Logseq Publish GitHub Action]]
--
--
+	- [My Blog](https://kevin7lou.github.io/)
+  
+- > This Knowledge Base is powered by [Logseq](https://github.com/logseq/logseq) with [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme), and published automatically using [Logseq Publish SPA](https://github.com/marketplace/actions/logseq-publish-spa) .
