@@ -64,21 +64,3 @@ Thank you for visiting my personal data science wiki. I hope you find it helpful
 [^2]: [TiddlyWiki — a non-linear personal web notebook](https://tiddlywiki.com/)
 [^3]: [释放双链笔记图谱的力量——KG笔记法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/440115356)
 [^4]: [卢曼卡片盒笔记法介绍 (Introduction to the Zettelkasten Method) • Zettelkasten Method](https://zettelkasten.de/introduction/zh/)
-
-
-----
-
-
-## Tiddlywiki-Github-Pages-Github Actions
-This wiki shows how to set up websites hosted on GitHub Pages using Github Actions and Tiddlywiki 5 on Node.js.
-
-Tiddlywiki under Node.js stores each tiddler in a separate file. A wiki can be hosted on GitHub and Github Actions can generate index.html automatically from GitHub repository and save to GitHub Pages.
-
-This procedure can be used to create websites for projects, users, and organizations.
-
-Demo: https://kevin7lou.github.io/wiki/
-### Reference
-- https://github.com/kookma/Tiddlywiki-Github Actions
-- https://github.com/danielo515/TW5-auto-publish2gh-pages
-- https://github.com/miRoox/wiki
-
