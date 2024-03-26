@@ -1,4 +1,4 @@
-# 📚 My Wiki of Data Science
+# 📚 My Wiki
 [![pages-build-deployment](https://github.com/kevin7lou/wiki/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kevin7lou/wiki/actions/workflows/pages/pages-build-deployment)
 [![GitHub license](https://img.shields.io/github/license/kevin7lou/wiki)](https://github.com/kevin7lou/wiki/blob/master/LICENSE)
 [![GitHub repo size](https://img.shields.io/github/repo-size/kevin7lou/wiki?logoColor=orange)](https://github.com/kevin7lou/wiki.git)
